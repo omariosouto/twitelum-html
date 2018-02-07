@@ -6,6 +6,7 @@
 .cabecalho__container {
   padding: 0 15px;
   display: flex;
+  text-align: center;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;

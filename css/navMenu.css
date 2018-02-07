@@ -14,3 +14,9 @@
   display: block;
   cursor: pointer;
 }
+@media (max-width: 610px) {
+  .navMenu__link {
+    padding: 14px 8px;
+    font-size: 12px;
+  }
+}

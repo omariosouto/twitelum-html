@@ -15,9 +15,9 @@
   border: 1px solid #ABE6F8;
   border-radius: 4px;
   resize: none;
-  padding: 10px;
+  padding: 8px;
   height: 40px;
-  font-size: 12px;
+  font-size: 11px;
 }
 .novoTweet__editor:not(:empty),
 .novoTweet__editor:focus {
